@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SampleWinUI3_AccessWebcam_4710 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SampleWinUI3_AccessWebcam_4710 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
